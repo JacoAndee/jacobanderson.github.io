@@ -14,5 +14,16 @@
 - Description
 - Link
 
-### Cartographic Creations
+## Cartographic Creations
 
+### Map Project 1
+- Description
+- Link
+
+### Map Project 2
+- Description
+- Link
+
+## Certifications
+- Description
+- Link
