@@ -4,11 +4,11 @@
 
 ### Bayesian Spatial Modeling of Ozone Related Respiratory Mortality
 - Description
-- [GitHub Repository]{https://github.com/JacoAndee/respiratory_mortality_modeling}
+- [GitHub Repository](https://github.com/JacoAndee/respiratory_mortality_modeling)
 
 ### Bayesian Regression of Heat Related Illness in California
 - Description
-- [GitHub Repository]{https://github.com/JacoAndee/heat_illness_model}
+- [GitHub Repository](https://github.com/JacoAndee/heat_illness_model)
 
 ### Statistical Analysis of Demographic Groups in New York
 - Description
@@ -18,7 +18,7 @@
 
 ### Spatial Analysis of Earthquake Events in the Caribbean
 - Description
-- [ArcGIS Story Maps]{https://storymaps.arcgis.com/stories/c2a578e5c191467f97bb6f806da41d2e}
+- [ArcGIS Story Maps](https://storymaps.arcgis.com/stories/c2a578e5c191467f97bb6f806da41d2e)
 
 ### Map Project 1
 - Description
